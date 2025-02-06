@@ -10,6 +10,7 @@ header p{font-weight: bold;}
 main{background-color: aliceblue;box-shadow: inset 0px -33px 39px 0px rgba(0, 0, 0, 0.219);}
 .mario{color: rgb(202, 201, 201); font-size: small;font-weight: 600;}
 #video{width: 100%; border-radius: 2em;}
+strong{color: blueviolet;font-weight: 600;}
 /* ELEMENTI NEL MAIN - ARTICLE */
 .grigio{background-color: rgb(195, 207, 208);}
 .anc{color: rgb(0, 199, 199);}
